@@ -14,5 +14,8 @@ A tensorflow (>2.0) project for chromosome detection in metaphase cell images
 [the dataset is coming soon !]
 
 ## demo
-cd tf_deep_karyotype
-python demo.py
+``` bash
+(1) open a cmd
+(2)cd tf_deep_karyotype
+(3) python demo.py
+```
