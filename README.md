@@ -13,6 +13,9 @@ A tensorflow (>2.0) project for chromosome detection in metaphase cell images
 ## dataset
 [the dataset is coming soon !]
 
+## building rotation libs
+[see the txt file at:  tf_deep_karyotype/utils/how to build rotated_nms.txt ]
+
 ## demo
 ``` bash
 (1) open a cmd
