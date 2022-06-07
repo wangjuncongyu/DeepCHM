@@ -19,7 +19,8 @@ A tensorflow (>2.0) project for chromosome detection in metaphase cell images
 ## demo
 ``` bash
 (1)download checkpoint file from https://pan.baidu.com/s/1BWq8TP6y7ppqlHh4tqgFhQ      (download code: zm38)
-(2)open a cmd
-(3)cd tf_deep_karyotype
-(4) python demo.py
+(2)put the whole checkpoints dirctor to the tf_deep_karyotype
+(3)open a cmd
+(4)cd tf_deep_karyotype
+(5) python demo.py
 ```
