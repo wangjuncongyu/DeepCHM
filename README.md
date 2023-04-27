@@ -11,7 +11,8 @@ A tensorflow (>2.0) project for chromosome detection in metaphase cell images
 - pytorch 1.12.0.dev20220504+cu116 (required for building the rotation libs, see path: tf_deep_karyotype/utils/rotation)
 
 ## dataset
-[the dataset is coming soon !]
+Data available at the baidu cloud:https://pan.baidu.com/s/1jxAbkKYKtGg-WKcceR9w0Q
+download code(提取码)：**swcf** 
 
 ## building rotation libs
 [see the txt file at:  tf_deep_karyotype/utils/how to build rotated_nms.txt ]
