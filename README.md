@@ -19,9 +19,18 @@ download code(提取码)：**swcf**
 
 ## demo
 ``` bash
-(1)download checkpoint file from https://pan.baidu.com/s/1BWq8TP6y7ppqlHh4tqgFhQ      (download code: zm38)
-(2)put the whole checkpoints dirctor to the tf_deep_karyotype
+(1)download checkpoint file from https://pan.baidu.com/s/1BWq8TP6y7ppqlHh4tqgFhQ      (download code: swcf)
+(2)put the dataset to your directory
 (3)open a cmd
 (4)cd tf_deep_karyotype
 (5) python demo.py
 ```
+## training
+``` bash
+(1)download dataset from https://pan.baidu.com/s/1jxAbkKYKtGg-WKcceR9w0Q      (download code: zm38)
+(2)put the whole checkpoints dirctor to the tf_deep_karyotype
+(3)run tf_deep_karyotype/scripts/
+(4)cd tf_deep_karyotype
+(5) python demo.py
+```
+
