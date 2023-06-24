@@ -1,4 +1,4 @@
-# DeepCHM: Code, dataset, and a detailed version of the paper "Chromosome Detection in Metaphase Cell Images Using Morphological Priors". (Accepted by IEEE JBHI)
+# Code, dataset, and a detailed version of the paper "Chromosome Detection in Metaphase Cell Images Using Morphological Priors". (Accepted by IEEE JBHI)
 A tensorflow (>2.0) project for chromosome detection in metaphase cell images 
 
 > This is a one-stage detector for chromosome detection using skelecton-guided rotated anchors。
